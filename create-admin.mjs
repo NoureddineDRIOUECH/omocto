@@ -1,6 +1,6 @@
 // scripts/create-admin.mjs
 import readline from "readline";
-import bcrypt from "bcrypt";
+import bcrypt from "bcryptjs";
 import { createClient } from "@supabase/supabase-js";
 import dotenv from "dotenv";
 
