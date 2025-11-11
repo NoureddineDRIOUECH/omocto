@@ -40,7 +40,7 @@
     "@radix-ui/react-tooltip": "1.1.6",
     "@supabase/supabase-js": "^2.80.0",
     "@tabler/icons-react": "^3.35.0",
-    "@types/bcrypt": "^6.0.0",
+
     "@types/bcryptjs": "^3.0.0",
     "@types/matter-js": "^0.20.2",
     "@types/uuid": "^11.0.0",

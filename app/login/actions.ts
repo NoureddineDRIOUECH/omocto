@@ -2,7 +2,7 @@
 
 import { z } from "zod"
 import { supabase } from "@/lib/supabase"
-import * as bcrypt from "bcrypt"
+import * as bcrypt from "bcryptjs"
 import { getSession } from "@/lib/session.server"
 import { redirect } from "next/navigation"
 
